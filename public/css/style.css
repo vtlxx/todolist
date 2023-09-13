@@ -1,0 +1,16 @@
+.check-icon:hover {
+    color: green;
+}
+
+.delete-icon {
+    color: #ba0101;
+}
+
+.delete-icon:hover {
+    color: #ff5353;
+}
+
+.strike {
+    text-decoration: line-through;
+    background-color: #d5d5d5 !important;
+}
